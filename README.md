@@ -62,6 +62,7 @@ Note: Keep all the switch faults in off position
 <img width="503" height="479" alt="image" src="https://github.com/user-attachments/assets/9f4fdea5-8f1d-44ae-a75a-8c3737088c0a" />
 
 ## PROGRAM:
+~~~
 Am = 7;
 Ac = 14;
 fm = 653;
@@ -93,6 +94,7 @@ plot(t, demod, 'g');
 title('Demodulated Signal');
 xlabel('Time (s)');
 ylabel('Amplitude');
+~~~
 
 ## TABULATION:
 ![WhatsApp Image 2025-11-18 at 19 22 14_b1901f89](https://github.com/user-attachments/assets/69c04a68-567d-436f-ae0f-bb5d6123854c)
